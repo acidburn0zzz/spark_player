@@ -48,7 +48,7 @@
     "@hola.org/videojs-settings": "0.0.3-90",
     "@hola.org/videojs-swf": "5.1.0-12",
     "@hola.org/videojs-thumbnails": "0.1.1-11",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "video.js": "github:hola/video.js#hola_5.10.2",
     "videojs-contrib-dash": "2.6.1",
     "videojs-watermark": "1.0.1",
